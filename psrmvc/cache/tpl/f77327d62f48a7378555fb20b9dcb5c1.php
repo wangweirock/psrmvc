@@ -1,0 +1,11 @@
+</!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>今天怎么不开心</title>
+</head>
+<body>
+<h1>我的滑板鞋</h1>
+<h2><?=$info['name'];?></h2>
+</body>
+</html>
